@@ -59,7 +59,8 @@
 // //
 // // It's expected you know how to use git to push and pull your projects. You will not get ANY points if you push your work after 5pm.
 //
-class Car{
+
+  class Car{
 
 Constructor (color, make, modelyear){
 
@@ -68,33 +69,51 @@ Constructor (color, make, modelyear){
   this.modelyear_prop=modelyear_prop;
   this.enginePowerType_prop= 10;
 //10 cylinder
-}
-//This method returns the engine speed of the car}
 
-  return:    this.enginePowerType_prop;
-}
+  {
+//This method returns the engine speed of the car}
+      return this.enginePowerType_prop;
 
 // Create a car instance
-  {
+
 let myCar = new ["Red, Cadillac, 1950"];
-let myCar = new ["Silver, Mercedes, 1995"];
-let myCar = new ["Gold, Hummer, 2015];
-
+let yourCar = new ["Silver, Mercedes, 1995"];
+let theirCar = new ["Gold, Hummer, 2015];}
+  }
     {
+        {{
 
+        }
+        }}}
 // Instances
 // Change the EnginePower for one instance of the car
 
 }
 
 console.log (myCar.enginePower);
-console.log (myCar.enginePowerType_prop=6(); //Original 6 cylinder Engine Power
+console.log (myCar.enginePowerType_prop= 6)//Original 6 cylinder Engine Power
 console.log (myCarmyCar.enginePower); //Change enginePower)
 
 // Change the color of the car
 console.log ("myCar Color is" + myCar.color_prop);
 console.log ("yourCar Color is" + yourCar.color_prop);
-console.log ("their car color is"+ theirCar.color_prop);
+console.log ("theirCar color is"+ theirCar.color_prop);
 
 myCar.color_prep="Orange";
-Console.log ("Color)is "+ myCar
+Console.log ("Color)is "+ myCar_prop);
+
+//Challenge question
+
+var playernumber1=Prompt("Enter a number to guess");
+var playernumber2=Prompt("Prompt enter guess");
+while playernumber1 number!==playernumber2guess;
+
+    {
+        if (playernumber2 guess < playernumber1,  number);
+
+}
+alert ( "guess higher!!!");
+
+{
+ else if (player 2 guess> playernumber1
+  }
