@@ -1,3 +1,12 @@
+It seems you had an idea of what kind of logic you would need to solve this, but it was all copied code from other projects.
+
+As we state often in class, DO NOT get in the terrible habit of just copying over code from other projects and guessing. Referring to other code for a reminder on syntax or similar is fine, but you muct write all of your own code to complete an assignment.
+
+You will never actually learn it otherwise.
+
+Go back and review classes: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+
 # Build a Simple Quiz Program
 
 ## Weekly Project (Total 10 points)
